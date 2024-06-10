@@ -6,4 +6,4 @@ Buka FullCodeSumo.ino dan copy code.
 Pada Arduino IDE, buka New Sketch dan paste code.
 Upload code ke dalam ESP32.
 ## Step 3: Download dan intall Bluetooth Remote control
-Muat turun aplikasi, dan install pada peranti Android masing-masing.
+Muat turun aplikasi base.apk, dan install pada peranti Android masing-masing.
