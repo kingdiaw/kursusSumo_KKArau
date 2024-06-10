@@ -1,6 +1,6 @@
 # kursus Sumo Kolej Komuniti Arau 12-13 JUN 2024
 ## Nota Kursus
-Nota kursus (google slide) boleh ambil disini [Nota](https://docs.google.com/presentation/d/1PJUw4vBVmcOnj3PTXjwTzOhOILjbxaiIWsUu6iikcxU/edit?usp=sharing)
+Nota kursus (google slide) boleh ambil disini <a href="https://docs.google.com/presentation/d/1PJUw4vBVmcOnj3PTXjwTzOhOILjbxaiIWsUu6iikcxU/edit?usp=sharing" target="_blank">Nota Google Slide</a>
 
 Nota Tambahan: [Motor Driver](https://www.instructables.com/Tutorial-for-Dual-Channel-DC-Motor-Driver-Board-PW/)
 
