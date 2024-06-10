@@ -8,6 +8,8 @@ Nota Tambahan: [Arduino Reference](https://www.arduino.cc/reference/en/)
 
 Nota Tambahan: [SUMOBOT ESP32 Controller Board Ver 2022](https://github.com/Husainiaza/polysumo/tree/main)
 
+Nota Tambahan: [Step to Install ESP32 Board in Arduino IDE](https://randomnerdtutorials.com/installing-esp32-arduino-ide-2-0/#more-103687)
+
 ## Plug and Play
 ### Step 1: Pasang set Robot menggikut usermanual
 Dapatkan set sumo dari Kolej Komuniti Arau seterusnya buat pemasangan seperti yang usermanual.
