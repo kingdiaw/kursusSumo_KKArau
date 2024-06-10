@@ -8,4 +8,10 @@ Upload code ke dalam ESP32.
 ## Step 3: Download dan intall Bluetooth Remote control
 Muat turun aplikasi base.apk, dan install pada peranti Android masing-masing.
 ## Nota Kursus
-Nota kursus boleh ambil disini [Nota](https://docs.google.com/presentation/d/1PJUw4vBVmcOnj3PTXjwTzOhOILjbxaiIWsUu6iikcxU/edit?usp=sharing)
+Nota kursus (google slide) boleh ambil disini [Nota](https://docs.google.com/presentation/d/1PJUw4vBVmcOnj3PTXjwTzOhOILjbxaiIWsUu6iikcxU/edit?usp=sharing)
+
+Nota Tambahan: [Motor Driver](https://www.instructables.com/Tutorial-for-Dual-Channel-DC-Motor-Driver-Board-PW/)
+
+Nota Tambahan: [Arduino Reference](https://www.arduino.cc/reference/en/)
+
+Nota Tambahan: [SUMOBOT ESP32 Controller Board Ver 2022](https://github.com/Husainiaza/polysumo/tree/main)
