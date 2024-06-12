@@ -1,4 +1,4 @@
-# kursus Sumo Kolej Komuniti Arau 12-13 JUN 2024
+# kursus Sumo Kolej Komuniti Kangar 12-13 JUN 2024
 ## Nota Kursus
 Nota kursus (google slide) boleh ambil disini [Nota Goole Slide](https://docs.google.com/presentation/d/1PJUw4vBVmcOnj3PTXjwTzOhOILjbxaiIWsUu6iikcxU/edit?usp=sharing)
 
