@@ -1,4 +1,4 @@
-# Program Pembangunan dan Peningkatan Kemahiran Berteraskan 4IR: Robotic Application di Kolej Komuniti Arau Cawangan Kangar 12-13 JUN 2024
+# Program Pembangunan dan Peningkatan Kemahiran Berteraskan 4IR: Robotic Application di Kolej Komuniti Arau Cawangan Kangar 9-10 September 2024
 ## Nota Kursus
 Nota kursus (google slide) boleh ambil disini [Nota Goole Slide](https://docs.google.com/presentation/d/1PJUw4vBVmcOnj3PTXjwTzOhOILjbxaiIWsUu6iikcxU/edit?usp=sharing)
 
