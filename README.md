@@ -19,4 +19,8 @@ Pada Arduino IDE, buka New Sketch dan paste code.
 Upload code ke dalam ESP32.
 ### Step 3: Download dan intall Bluetooth Remote control
 Muat turun aplikasi base.apk, dan install pada peranti Android masing-masing.
+- Use a QR code scanner app on your smartphone to scan the provided QR code.
+<p align="center">
+  <img src="images/remoteBT_apk_qr-code.png" alt="QR Code" width="200"/>
+</p>
 
